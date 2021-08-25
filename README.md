@@ -1,7 +1,7 @@
 #fwd-edm-template
 
 Link view
-https://fwd-edm-template.herokuapp.com/source/index.html
+https://hsbcvietnam.github.io/fwd-edm-2021-aug-5bday/source/index.html
 
 Link download
-https://fwd-edm-template.herokuapp.com/download.php
+https://fwd-edm-5bday.herokuapp.com/download.php
